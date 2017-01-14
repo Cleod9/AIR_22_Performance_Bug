@@ -10,3 +10,7 @@ This repo was built to demonstrate a performance issue with the `GameInput` clas
 
 
 I've built two AIR installs and two SWFs reproducing the issue. The source code has also been provided so you can rebuild yourself. See `src/Main.as` for the offending code.
+
+Bug Thread:
+
+https://forums.adobe.com/message/9259600#9259600
